@@ -1,0 +1,30 @@
+.titulo {
+    text-align: center;
+}
+
+.contenedor {
+    overflow: auto;
+    margin-bottom: 45px;
+}
+
+.contenedor2 {
+    overflow: auto;
+    margin-bottom: 45px;
+}
+
+.contenedor3 {
+    overflow: auto;
+    margin-bottom: 45px;
+}
+
+img,
+a {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+img {
+    width: 250px;
+    float: 25px;
+    margin-right: 10px;
+}
